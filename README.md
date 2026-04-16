@@ -29,7 +29,7 @@
 <br>Nome do Projeto 1	Breve descrição do que o sistema faz.	HTML, CSS, JS</br>
 <br>Nome do Projeto 2	Sistema de cadastro feito em aula.	PHP, MySQL</br>
 <br>📊 Estatísticas do GitHub</br>
-<br> ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nathan-dsb&show_icons=true&theme=dracula) </br>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nathan-dsb&show_icons=true&theme=dracula)
 
 <br>📫 Como me encontrar</br>
 <br>📧 Email: nathan.santos21@aluno.cps.sp.gov.br</br>
